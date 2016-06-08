@@ -27,6 +27,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+
 }
 #nav-list {
   margin-top: 10px;
@@ -49,4 +50,41 @@ body {
   margin-top: -42px;
 }
 /* END HEADER */
+h1 {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 175%;
+  color: black;
+}
 
+div#container {
+  border: 1px solid black;
+  margin-bottom: 15px;
+  background-color: black;
+  position: relative;
+  width: 95%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.position {
+  margin: 10px;
+  padding: 15px;
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 175%;
+  color: orange;
+}
+
+section {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  background-color: black
+}
